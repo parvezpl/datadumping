@@ -48,4 +48,4 @@ class FinalSurtificat():
             print("Click to Finish")
 
 FinalSurtificat().final_paper_solver()
-//change
+//
